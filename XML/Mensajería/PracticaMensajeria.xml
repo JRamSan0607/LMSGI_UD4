@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE BDsms SYSTEM "Mensajeria.dtd">
+<BDsms>
+    <sms>
+        <telefono>674659218</telefono>
+        <fecha>10/01/2022</fecha>
+        <hora>12:32</hora>
+        <mensaje>Juego 1:Tetris</mensaje>
+    </sms>
+    <sms>
+        <telefono>693782957</telefono>
+        <fecha>10/01/2022</fecha>
+        <hora>12:33</hora>
+        <mensaje>Juego 2:Ping-Pong</mensaje>
+    </sms>
+    <sms>
+        <telefono>678233784</telefono>
+        <fecha>10/01/2022</fecha>
+        <hora>12:33</hora>
+        <mensaje>Juego 3:Cartas->Uno</mensaje>
+    </sms>
+</BDsms>

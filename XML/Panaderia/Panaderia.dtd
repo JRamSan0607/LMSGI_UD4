@@ -1,0 +1,6 @@
+<!ELEMENT Panaderia (encargo*)>
+<!ELEMENT encargo (calle, numero, fecha, cantidad)>
+<!ELEMENT calle (#PCDATA)>
+<!ELEMENT numero (#PCDATA)>
+<!ELEMENT fecha (#PCDATA)>
+<!ELEMENT cantidad (#PCDATA)>

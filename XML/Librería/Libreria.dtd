@@ -1,0 +1,6 @@
+<!ELEMENT Libreria (libro*)>
+<!ELEMENT libro (propietario, fecha, hora, devolucion)>
+<!ELEMENT propietario (#PCDATA)>
+<!ELEMENT fecha (#PCDATA)>
+<!ELEMENT hora (#PCDATA)>
+<!ELEMENT devolucion (#PCDATA)>

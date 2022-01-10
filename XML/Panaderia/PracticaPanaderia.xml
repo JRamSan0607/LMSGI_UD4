@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Panaderia SYSTEM "Panaderia.dtd">
+<Panaderia>
+    <encargo>
+        <calle>674659218</calle>
+        <numero>10/01/2022</numero>
+        <fecha>12:32</fecha>
+        <cantidad>Juego 1:Tetris</cantidad>
+    </encargo>
+    <encargo>
+        <calle>693782957</calle>
+        <numero>10/01/2022</numero>
+        <fecha>12:33</fecha>
+        <cantidad>Juego 2:Ping-Pong</cantidad>
+    </encargo>
+    <encargo>
+        <calle>678233784</calle>
+        <numero>10/01/2022</numero>
+        <fecha>12:33</fecha>
+        <cantidad>Juego 3:Cartas->Uno</cantidad>
+    </encargo>
+</Panaderia>

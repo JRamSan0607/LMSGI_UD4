@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Libreria SYSTEM "Libreria.dtd">
+<Libreria>
+    <libro>
+        <propietario>674659218</propietario>
+        <fecha>10/01/2022</fecha>
+        <hora>12:32</hora>
+        <devolucion>Juego 1:Tetris</devolucion>
+    </libro>
+    <libro>
+        <propietario>693782957</propietario>
+        <fecha>10/01/2022</fecha>
+        <hora>12:33</hora>
+        <devolucion>Juego 2:Ping-Pong</devolucion>
+    </libro>
+    <libro>
+        <propietario>678233784</propietario>
+        <fecha>10/01/2022</fecha>
+        <hora>12:33</hora>
+        <devolucion>Juego 3:Cartas->Uno</devolucion>
+    </libro>
+</Libreria>
