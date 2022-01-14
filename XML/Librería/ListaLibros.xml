@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding = "UTF-8"?>
+
+<ListaDeLibros xmlns:l1="https://www.casadellibro.com/libros">
+    <l1:Autores>
+        <l1:Autor1>
+            <l1:Apellido1>De Campos</l1:Apellido1>
+            <l1:Apellido2>Rubiales</l1:Apellido2>
+            <l1:Nombre>Pablo</l1:Nombre>
+            <l1:Título>Noches Oscuras</l1:Título>
+        <l1:FechaDePublicación>16/4/2007</l1:FechaDePublicación>
+        <l1:Editorial>Santillana</l1:Editorial>
+        <l1:ISBN>83754103729740</l1:ISBN>
+        </l1:Autor1>
+        <l1:Autor2>
+            <l1:Apellido1>Jaén</l1:Apellido1>
+            <l1:Apellido2>Labrador</l1:Apellido2>
+            <l1:Nombre>Jesús</l1:Nombre>
+            <l1:Título>Tiembla tierra, tiembla</l1:Título>
+        <l1:FechaDePublicación>6/3/1995</l1:FechaDePublicación>
+        <l1:Editorial>Planeta Cósmico</l1:Editorial>
+        <l1:ISBN>4573259462157</l1:ISBN>
+        </l1:Autor2>
+        <l1:Autor3>
+            <l1:Apellido1>Rodríguez</l1:Apellido1>
+            <l1:Apellido2>Benítez</l1:Apellido2>
+            <l1:Nombre>Aitana</l1:Nombre>
+            <l1:Título>El muro que separa las realidades</l1:Título>
+        <l1:FechaDePublicación>24/12/2012</l1:FechaDePublicación>
+        <l1:Editorial>El Nuevo Mundo</l1:Editorial>
+        <l1:ISBN>7462946678101</l1:ISBN>
+        </l1:Autor3>
+        <l1:Autor4>
+            <l1:Apellido1>Romero</l1:Apellido1>
+            <l1:Apellido2>López</l1:Apellido2>
+            <l1:Nombre>Benito</l1:Nombre>
+            <l1:Título>Amigos en el Infierno</l1:Título>
+        <l1:FechaDePublicación>24/1/2003</l1:FechaDePublicación>
+        <l1:Editorial>Yumanji</l1:Editorial>
+        <l1:ISBN>1574685589425</l1:ISBN>
+        </l1:Autor4>
+        <l1:Autor5>
+            <l1:Apellido1>Jiménez</l1:Apellido1>
+            <l1:Apellido2>Garrido</l1:Apellido2>
+            <l1:Nombre>Laura</l1:Nombre>
+            <l1:Título>La última rosa</l1:Título>
+        <l1:FechaDePublicación>5/6/1994</l1:FechaDePublicación>
+        <l1:Editorial>Santillana</l1:Editorial>
+        <l1:ISBN>1545536982475</l1:ISBN>
+        </l1:Autor5>
+        <l1:Autor6>
+            <l1:Apellido1>Calle</l1:Apellido1>
+            <l1:Apellido2>Pastora</l1:Apellido2>
+            <l1:Nombre>Cristina</l1:Nombre>
+            <l1:Título>Laberinto de Dioses</l1:Título>
+        <l1:FechaDePublicación>5/2/2017</l1:FechaDePublicación>
+        <l1:Editorial>Astiberri Ediciones</l1:Editorial>
+        <l1:ISBN>1549685265326</l1:ISBN>
+        </l1:Autor6>
+        <l1:Autor7>
+            <l1:Apellido1>Navarro</l1:Apellido1>
+            <l1:Apellido2>Carrasco</l1:Apellido2>
+            <l1:Nombre>Juan</l1:Nombre>
+            <l1:Título>No te molestes por mi presencia</l1:Título>
+        <l1:FechaDePublicación>19/8/1998</l1:FechaDePublicación>
+        <l1:Editorial>ECC l1:Editorial</l1:Editorial>
+        <l1:ISBN>1542857986532</l1:ISBN>
+        </l1:Autor7>
+        <l1:Autor8>
+            <l1:Apellido1>Ruiz</l1:Apellido1>
+            <l1:Apellido2>Vega</l1:Apellido2>
+            <l1:Nombre>Rafael</l1:Nombre>
+            <l1:Título>El río tintado de rojo</l1:Título>
+        <l1:FechaDePublicación>28/4/2009</l1:FechaDePublicación>
+        <l1:Editorial>Planeta Cósmico</l1:Editorial>
+        <l1:ISBN>1683455826497</l1:ISBN>
+        </l1:Autor8>
+        <l1:Autor9>
+            <l1:Apellido1>Garrido</l1:Apellido1>
+            <l1:Apellido2>Dominguez</l1:Apellido2>
+            <l1:Nombre>Raúl</l1:Nombre>
+            <l1:Título>El fútbol, 22 tíos corriendo detrás de un balón</l1:Título>
+        <l1:FechaDePublicación>16/5/2005</l1:FechaDePublicación>
+        <l1:Editorial>El Mundo de Deportes</l1:Editorial>
+        <l1:ISBN>1454762549337</l1:ISBN>
+        </l1:Autor9>
+        <l1:Autor10>
+            <l1:Apellido1>Mariscal</l1:Apellido1>
+            <l1:Apellido2>Guerrero</l1:Apellido2>
+            <l1:Nombre>Miguel</l1:Nombre>
+            <l1:Título>Mi soledad y yo.</l1:Título>
+        <l1:FechaDePublicación>18/7/2014</l1:FechaDePublicación>
+        <l1:Editorial>Insólita l1:Editorial</l1:Editorial>
+        <l1:ISBN>15426548759895</l1:ISBN>
+        </l1:Autor10>
+    </l1:Autores>
+</ListaDeLibros>

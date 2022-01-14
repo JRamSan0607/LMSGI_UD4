@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE BDsms SYSTEM "Mensajeria.dtd">
-<BDsms>
+<BDsms xmlns:xsi= "http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="BDsms.xsd">
     <sms>
         <telefono>674659218</telefono>
         <fecha>10/01/2022</fecha>
