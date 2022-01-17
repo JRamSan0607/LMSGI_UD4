@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Libreria SYSTEM "Biblioteca.dtd">
+<Libreria>
+    <libro>
+        <nombre>Una Joya endeudada</nombre>
+        <propietario>674659218</propietario>
+        <fecha>10/01/2022</fecha>
+        <hora>12:32</hora>
+        <devolucion>27/01/2022</devolucion>
+    </libro>
+    <libro>
+        <nombre>Hoy me levanté contento</nombre>
+        <propietario>693782957</propietario>
+        <fecha>10/01/2022</fecha>
+        <hora>12:33</hora>
+        <devolucion>18/01/2022</devolucion>
+    </libro>
+    <libro>
+        <nombre>Tarzán</nombre>
+        <propietario>678233784</propietario>
+        <fecha>10/01/2022</fecha>
+        <hora>12:33</hora>
+        <devolucion>18/01/2022</devolucion>
+    </libro>
+    <libro>
+        <nombre>Javier y sus amigos</nombre>
+        <propietario>784672194</propietario>
+        <fecha>29/01/2022</fecha>
+        <hora>19:54</hora>
+        <devolucion>15/02/2022</devolucion>
+    </libro>
+    <libro>
+        <nombre>mas vale pájaro en mano...</nombre>
+        <propietario>263845928</propietario>
+        <fecha>30/01/2022</fecha>
+        <hora>16:21</hora>
+        <devolucion>07/02/2022</devolucion>
+    </libro>
+    <libro>
+        <nombre>Jesusito de mi vida</nombre>
+        <propietario>784632192</propietario>
+        <fecha>02/02/2022</fecha>
+        <hora>12:12</hora>
+        <devolucion>20/02/2022</devolucion>
+    </libro>
+    <libro>
+        <nombre>Correcto</nombre>
+        <propietario>167328374</propietario>
+        <fecha>02/02/2022</fecha>
+        <hora>20:41</hora>
+        <devolucion>24/02/2022</devolucion>
+    </libro>
+    <libro>
+        <nombre>Paco Calderón y sus Aventuras</nombre>
+        <propietario>163983785</propietario>
+        <fecha>04/02/2022</fecha>
+        <hora>10:20</hora>
+        <devolucion>26/02/2022</devolucion>
+    </libro>
+    <libro>
+        <nombre>Pablito y Ana</nombre>
+        <propietario>674659219</propietario>
+        <fecha>04/02/2022</fecha>
+        <hora>13:31</hora>
+        <devolucion>01/03/2022</devolucion>
+    </libro>
+    <libro>
+        <nombre>Guía Turística Bornos</nombre>
+        <propietario>675782194</propietario>
+        <fecha>04/02/2022</fecha>
+        <hora>19:28</hora>
+        <devolucion>11/02/2022</devolucion>
+    </libro>
+</Libreria>
