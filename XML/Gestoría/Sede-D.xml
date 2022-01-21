@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE GestoriaSedes SYSTEM "Sede.dtd">
+<GestoriaSedes>
+    <clientes>
+        <codigoSede>H8456274</codigoSede>
+        <nombreEmpleado>Julio Sierra Benitez</nombreEmpleado>
+        <fechaAlta>15/02/2022</fechaAlta>
+        <descripcionCliente>Sovente</descripcionCliente>
+        <codigoCliente>GHD-675</codigoCliente>
+        <numeroViviendas>2</numeroViviendas>
+        <costeViviendas>280.000€</costeViviendas>
+        <resumenViviendas>Buen estado</resumenViviendas>
+        <plazoViviendas>2 Años</plazoViviendas>
+    </clientes>
+    <clientes>
+        <codigoSede>B67589234</codigoSede>
+        <nombreEmpleado>María Ramírez Hidalgo</nombreEmpleado>
+        <fechaAlta>18/02/2022</fechaAlta>
+        <descripcionCliente>Insolvente</descripcionCliente>
+        <codigoCliente>JIR-092</codigoCliente>
+        <numeroViviendas>1</numeroViviendas>
+        <costeViviendas>190.000€</costeViviendas>
+        <resumenViviendas>Amueblada</resumenViviendas>
+        <plazoViviendas>2 Años</plazoViviendas>
+    </clientes>
+    <clientes>
+        <codigoSede>R89378465</codigoSede>
+        <nombreEmpleado>Javier Jurado Manchego</nombreEmpleado>
+        <fechaAlta>21/02/2022</fechaAlta>
+        <descripcionCliente>Sovente</descripcionCliente>
+        <codigoCliente>HJT-894</codigoCliente>
+        <numeroViviendas>4</numeroViviendas>
+        <costeViviendas>789.000€</costeViviendas>
+        <resumenViviendas>Grandes espacios</resumenViviendas>
+        <plazoViviendas>5 Años</plazoViviendas>
+    </clientes>
+</GestoriaSedes>
