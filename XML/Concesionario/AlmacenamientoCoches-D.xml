@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE AlmacenamientoCoches SYSTEM "AlmCoches.dtd">
+<AlmacenamientoCoches>
+    <coche>
+        <codigoDeCoche>P67H23B</codigoDeCoche>
+        <marca>Skoda</marca>
+        <modelo>Fabia Injection</modelo>
+        <matricula>67455CBJ</matricula>
+        <potencia>75CV</potencia>
+        <plazas>5</plazas>
+        <puertas>5</puertas>
+    </coche>
+    <coche>
+        <codigoDeCoche>I45V64R</codigoDeCoche>
+        <marca>Seat</marca>
+        <modelo>Leon ST 2.0 TDI</modelo>
+        <matricula>76492HJW</matricula>
+        <potencia>150CV</potencia>
+        <plazas>5</plazas>
+        <puertas>5</puertas>
+    </coche>
+    <coche>
+        <codigoDeCoche>J78Y54L</codigoDeCoche>
+        <marca>Kia</marca>
+        <modelo>Ceed 1.0 MHEV</modelo>
+        <matricula>78392WJT</matricula>
+        <potencia>120CV</potencia>
+        <plazas>5</plazas>
+        <puertas>5</puertas>
+    </coche>
+    <coche>
+        <codigoDeCoche>H67W28E</codigoDeCoche>
+        <marca>Volkswagen</marca>
+        <modelo>Polo A-Polo Plus 1.2 TSI</modelo>
+        <matricula>67485HBY</matricula>
+        <potencia>90CV</potencia>
+        <plazas>5</plazas>
+        <puertas>5</puertas>
+    </coche>
+    <coche>
+        <codigoDeCoche>B57D30A</codigoDeCoche>
+        <marca>BMW</marca>
+        <modelo>X5 xDrive30d</modelo>
+        <matricula>67401WIF</matricula>
+        <potencia>258CV</potencia>
+        <plazas>5</plazas>
+        <puertas>5</puertas>
+    </coche>
+</AlmacenamientoCoches>
