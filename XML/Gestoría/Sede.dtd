@@ -1,5 +1,5 @@
 <!ELEMENT GestoriaSedes (clientes*)>
-<!ELEMENT clientes (codigoSede, nombreEmpleado, fechaAlta, descripcionCliente, numeroViviendas, costeViviendas, resumenViviendas, plazoViviendas)>
+<!ELEMENT clientes (codigoSede, nombreEmpleado, fechaAlta, descripcionCliente, codigoCliente, numeroViviendas, costeViviendas, resumenViviendas, plazoViviendas)>
 <!ELEMENT codigoSede (#PCDATA)>
 <!ELEMENT nombreEmpleado (#PCDATA)>
 <!ELEMENT fechaAlta (#PCDATA)>
