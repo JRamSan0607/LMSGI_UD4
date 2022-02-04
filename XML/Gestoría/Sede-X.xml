@@ -1,37 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GestoriaSedes xmlns:xsi= "http://www.w3.org/2001/XMLSchema-instance"
 xsi:noNamespaceSchemaLocation="Sede.xsd">
-    <clientes>
-        <codigoSede>H8456274</codigoSede>
-        <nombreEmpleado>Julio Sierra Benitez</nombreEmpleado>
-        <fechaAlta>15/02/2022</fechaAlta>
-        <descripcionCliente>Sovente</descripcionCliente>
-        <codigoCliente>GHD-675</codigoCliente>
-        <numeroViviendas>2</numeroViviendas>
-        <costeViviendas>280.000€</costeViviendas>
-        <resumenViviendas>Buen estado</resumenViviendas>
-        <plazoViviendas>2 Años</plazoViviendas>
-    </clientes>
-    <clientes>
-        <codigoSede>B67589234</codigoSede>
-        <nombreEmpleado>María Ramírez Hidalgo</nombreEmpleado>
-        <fechaAlta>18/02/2022</fechaAlta>
-        <descripcionCliente>Insolvente</descripcionCliente>
-        <codigoCliente>JIR-092</codigoCliente>
-        <numeroViviendas>1</numeroViviendas>
-        <costeViviendas>190.000€</costeViviendas>
-        <resumenViviendas>Amueblada</resumenViviendas>
-        <plazoViviendas>2 Años</plazoViviendas>
-    </clientes>
-    <clientes>
-        <codigoSede>R89378465</codigoSede>
-        <nombreEmpleado>Javier Jurado Manchego</nombreEmpleado>
-        <fechaAlta>21/02/2022</fechaAlta>
-        <descripcionCliente>Sovente</descripcionCliente>
-        <codigoCliente>HJT-894</codigoCliente>
-        <numeroViviendas>4</numeroViviendas>
-        <costeViviendas>789.000€</costeViviendas>
-        <resumenViviendas>Grandes espacios</resumenViviendas>
-        <plazoViviendas>5 Años</plazoViviendas>
-    </clientes>
+<clientes>
+    <sede codigo="A000001">
+        <direccion>C/Castilla, 1</direccion>
+        <empleado>José Luis Barroso</empleado>
+        <fecha>10-01-2021</fecha>
+        <descripcion>Urgente</descripcion>
+        <cliente codigo="AAA-111">
+            <numero>12</numero>
+            <coste>100</coste>
+            <resumen>Producto Frágil</resumen>
+            <plazo>10</plazo>
+        </cliente>
+        <cliente codigo="AAA-112">
+            <numero>13</numero>
+            <coste>80</coste>
+            <resumen>Mueble</resumen>
+            <plazo>3</plazo>
+        </cliente>
+    </sede>
+</clientes>
 </GestoriaSedes>

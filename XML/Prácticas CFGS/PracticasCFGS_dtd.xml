@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Practicas>
+    <Alumnos>
+        <Alumno nombre="Laura Guerrero Rivas">
+            <NIF>67392849H</NIF>
+            <Resultado>APTO</Resultado>
+            <Observaciones>Cumple con los requisitos.</Observaciones>
+            <IP></IP>
+        </Alumno>
+        <Alumno nombre="Manuel Bellido Alcázar">
+            <NIF>78029381B</NIF>
+            <Resultado>APTO</Resultado>
+            <Observaciones>Buena exposición.</Observaciones>
+            <IP></IP>
+        </Alumno>
+        <Alumno nombre="Luis Benitez Lopez">
+            <NIF>89302743T</NIF>
+            <Resultado>NO APTO</Resultado>
+            <Observaciones>Suspenso por falta de Asistencia.</Observaciones>
+            <IP></IP>
+        </Alumno>
+        <Alumno nombre="Guillermo Holgado Ortega">
+            <NIF>10429443G</NIF>
+            <Resultado>APTO</Resultado>
+            <Observaciones>Matriculado</Observaciones>
+            <IP></IP>
+        </Alumno>
+    </Alumnos>
+</Practicas>
