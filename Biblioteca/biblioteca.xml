@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Libreria SYSTEM "biblioteca.dtd">
+<Libreria>
+    <libro>
+        <nombre>Los 3 cerditos</nombre>
+        <editorial>Ayala</editorial>
+        <ISBN>6729304H</ISBN>
+        <descripcion>Los cerditos eran redondos y parecían fáciles de dibujar, los cerditos Flautista y Violinista eran gordos pero ligeros de 
+            pies, el cerdito Práctico tenía unas virtudes más sólidas, y no hacia nada más que preocuparse por salvar a sus 
+            hermanos del Lobo Feroz.
+        </descripcion>
+    </libro>
+    <libro>
+        <nombre></nombre>
+        <editorial></editorial>
+        <ISBN></ISBN>
+        <descripcion>
+        </descripcion>
+    </libro>
+    <libro>
+        <nombre></nombre>
+        <editorial></editorial>
+        <ISBN></ISBN>
+        <descripcion>
+
+        </descripcion>
+    </libro>
+    <libro>
+        <nombre></nombre>
+        <editorial></editorial>
+        <ISBN></ISBN>
+        <descripcion>
+        </descripcion>
+    </libro>
+    <libro>
+        <nombre></nombre>
+        <editorial></editorial>
+        <ISBN></ISBN>
+        <descripcion>
+        </descripcion>
+    </libro>
+    <libro>
+        <nombre></nombre>
+        <editorial></editorial>
+        <ISBN></ISBN>
+        <descripcion>
+        </descripcion>
+    </libro>
+    <libro>
+        <nombre></nombre>
+        <editorial></editorial>
+        <ISBN></ISBN>
+        <descripcion>
+        </descripcion>
+    </libro>
+    <libro>
+        <nombre></nombre>
+        <editorial></editorial>
+        <ISBN></ISBN>
+        <descripcion></descripcion>
+    </libro>
+    <libro>
+        <nombre></nombre>
+        <editorial></editorial>
+        <ISBN></ISBN>
+        <descripcion>
+        </descripcion>
+    </libro>
+    <libro>
+        <nombre></nombre>
+        <editorial></editorial>
+        <ISBN></ISBN>
+        <descripcion>
+        </descripcion>
+    </libro>
+</Libreria>
