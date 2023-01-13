@@ -11,46 +11,70 @@
         </descripcion>
     </libro>
     <libro>
-        <nombre></nombre>
-        <editorial></editorial>
-        <ISBN></ISBN>
-        <descripcion>
+        <nombre>La casa de Mickey Mouse</nombre>
+        <editorial>Disney</editorial>
+        <ISBN>8499517463</ISBN>
+        <descripcion>Un mundo mágico de historias llenas de fantasía e icónicos protagonistas: desde el ratoncito más famoso del mundo, 
+            pasando por los increíbles superhéroes de Marvel, hasta valientes princesas y un sinfín de personajes de películas y series únicas.
+            Un universo de libros para dejar volar la imaginación, grandes colecciones con las que aprender, divertirse y vivir emocionantes 
+            aventuras en las que todo es posible. Entretenimiento asegurado para todas las edades con los clásicos de siempre y las últimas 
+            novedades: con Disney todos los sueños se hacen realidad.
         </descripcion>
     </libro>
     <libro>
-        <nombre></nombre>
-        <editorial></editorial>
-        <ISBN></ISBN>
-        <descripcion>
-
+        <nombre>Bat-Pat: El tesoro del cementerio</nombre>
+        <editorial>Montena</editorial>
+        <ISBN>848441423X</ISBN>
+        <descripcion>Roberto Pavanello nació en Milán en 1958. Es profesor de italiano en un instituto de educación secundaria y colaborador
+             del IRRE, el Instituto Regional de Investigación Educativa. Ha trabajado como consultor para diferentes editoriales italianas, 
+             elaborando planes lectores y, desde el año 1990, desarrolla actividades de animación a la lectura, tanto para adultos como para 
+             niños. También es autor de libros infantiles, entre los que destaca la serie «Bat Pat», traducida ya a 15 lenguas.
         </descripcion>
     </libro>
     <libro>
-        <nombre></nombre>
-        <editorial></editorial>
-        <ISBN></ISBN>
-        <descripcion>
+        <nombre>Pinocho</nombre>
+        <editorial>Cliper Plus</editorial>
+        <ISBN>8418039221</ISBN>
+        <descripcion>Geppetto, un anciano carpintero, talla una marioneta a la que pone por nombre Pinocho. Una noche un hada convierte a Pinocho
+            en un niño real. Y entonces comienza una gran aventura: Pinocho conocerá al pequeño Pepito Grillo, que será su amigo inseparable; 
+            al gato Fígaro y al pez Cleo; y por supuesto a otros niños de su clase con los que aprenderá muchas cosas de la vida.
+            El clásico de Disney en formato libro, con preciosas ilustraciones que hará que todos los lectores disfruten con esta historia 
+            al leerla una y otra vez.
         </descripcion>
     </libro>
     <libro>
-        <nombre></nombre>
-        <editorial></editorial>
-        <ISBN></ISBN>
-        <descripcion>
+        <nombre>El rey León</nombre>
+        <editorial>Cliper Plus</editorial>
+        <ISBN>8416548013</ISBN>
+        <descripcion>Simba es un cachorro de león y su mayor deseo es ser un valiente rey como su padre. Pero todo cambia cuando un día, en una 
+            estampida de búfalos, se mete en problemas por desobedecer a su padre.
+            Avergonzado, Simba huye lejos, donde conoce a Timón y Pumba, un jabalí y un suricato que le ayudan a sobrevivir. Pero llegará el 
+            día de volver y ocupar su lugar en el reino.
+            ¿Logrará enfrentar los desafíos?
         </descripcion>
     </libro>
     <libro>
-        <nombre></nombre>
-        <editorial></editorial>
-        <ISBN></ISBN>
-        <descripcion>
+        <nombre>PAC-MAN: BIRTH OF AN ICON</nombre>
+        <editorial>TITAN BOOKS LTD</editorial>
+        <ISBN>1789099390</ISBN>
+        <descripcion>This is a gorgeous, hardcover retrospective, the first-ever history of PAC-MAN. Full of historical imagery, concept 
+            designs, marketing photos and more, the book examines the game's design philosophy and origins through the artists, designers, 
+            developers, and other creative teams who brought PAC-MAN to life. This new non-fiction book will journey from creator Toru Iwatani's 
+            "pizza slice" inspiration to the game's incredible success in arcades and beyond. The book also dives into PAC-MAN's unprecedented 
+            impact on pop culture, with more than 40 new interviews from key players around the world.
         </descripcion>
     </libro>
     <libro>
-        <nombre></nombre>
-        <editorial></editorial>
-        <ISBN></ISBN>
-        <descripcion>
+        <nombre>Ben 10: La Verdad está ahí fuera</nombre>
+        <editorial>Norma Comics</editorial>
+        <ISBN>8467940387</ISBN>
+        <descripcion>¡Empiezan las nuevas aventuras de Ben 10 en cómic! Ben Tennyson no es el típico niño de 10 años. Es el portador del 
+            omnitrix, un dispositivo alienígena que le permite convertirse en 10 Aliens distintos de toda la galaxias. Su misión es proteger 
+            el mundo de ataques alienígenas con la ayuda de su prima Gwen y de su abuelo Max. El abuelo Max decide ir de acampada con Ben 
+            y Gwen para tomar se un bien merecido descanso. Allí conocen a un grupo de amantes del bigfoot, y Ben decide gastarles una broma. 
+            Nadie imaginaba que, en realidad, el verdadero bigfoot podría estar a la vuelta de la esquina. La guionista C. B. Lee, ganadora de 
+            un premio rainbow, y la dibujante li dan Chen forman el equipo creativo de esta nueva y apasionante novela gráfica basada en Ben 10, 
+            La aclamada serie de Cartoon Network.
         </descripcion>
     </libro>
     <libro>
