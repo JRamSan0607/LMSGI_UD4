@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="AlmacenamientoCoches.dtd" type="application/xml-dtd"?>
+<AlmacenamientoCoches>
+    <coche>
+        <codigoCoche>BMW Serie 1</codigoCoche>
+        <marca>BMW</marca>
+        <modelo>Serie 1</modelo>
+        <matricula>4672GTY</matricula>
+        <potencia>150CV</potencia>
+        <plazas>5</plazas>
+        <puertas>5</puertas>
+    </coche>
+    <coche>
+        <codigoCoche>Profesional Compact dCi 66kW (90CV) E6</codigoCoche>
+        <marca>Renault</marca>
+        <modelo>Kangoo Furgón</modelo>
+        <matricula>6730TGB</matricula>
+        <potencia>90CV</potencia>
+        <plazas>5</plazas>
+        <puertas>4</puertas>
+    </coche>
+    <coche>
+        <codigoCoche>Volkswagen Golf GTI Performance 2.0 TSI</codigoCoche>
+        <marca>Volkswagen</marca>
+        <modelo>Golf GTI Performance 2.0 TSI</modelo>
+        <matricula>8932LLT</matricula>
+        <potencia>245CV</potencia>
+        <plazas>5</plazas>
+        <puertas>5</puertas>
+    </coche>
+    <coche>
+        <codigoCoche>Audi A3 35 TDI 110kW (150CV) S tronic Sportback</codigoCoche>
+        <marca>Audi</marca>
+        <modelo>A3 TDI S Tronic Sportback</modelo>
+        <matricula>3204LMR</matricula>
+        <potencia>150CV</potencia>
+        <plazas>5</plazas>
+        <puertas>5</puertas>
+    </coche>
+    <coche>
+        <codigoCoche>Toyota Hilux  2.4 D-4D Cabina Doble GX</codigoCoche>
+        <marca>Toyota</marca>
+        <modelo>Hilux 2.4 D-4D GX</modelo>
+        <matricula>3894JTY</matricula>
+        <potencia>150CV</potencia>
+        <plazas>5</plazas>
+        <puertas>4</puertas>
+    </coche>
+</AlmacenamientoCoches>
