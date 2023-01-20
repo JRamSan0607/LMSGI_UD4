@@ -1,0 +1,8 @@
+<!ELEMENT DAW (Modulos*)>
+<!ELEMENT Modulos (NombreModulo+,UnidadesDidacticas+)>
+<!ELEMENT NombreModulo (#PCDATA)>
+<!ELEMENT UnidadesDidacticas (UD+)>
+<!ELEMENT UD (Tipo,Descripcion)>
+<!ATTLIST UD name CDATA #REQUIRED>
+<!ELEMENT Tipo (#PCDATA)>
+<!ELEMENT Descripcion (#PCDATA)>

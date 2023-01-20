@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="FPDAW.dtd" type="application/xml-dtd"?>
+<DAW>
+    <Modulos>
+        <NombreModulo>Lenguaje de Marcas</NombreModulo>
+        <UnidadesDidacticas>
+            <UD name="Introduccion a los Lenguajes de Marcas">
+                <Tipo>Teórico</Tipo>
+                <Descripcion>Damos entrada a nuestros mundos, los diferentes tipos de lenguaje de programación que nos podemos 
+                    encontrar.</Descripcion>
+            </UD>
+            <UD name="Lenguajes para la visualización de información">
+                <Tipo>Teórico-Práctico</Tipo>
+                <Descripcion>Enseñamos a usar lenguaje HTML y un poco de la historia sobre los lenguajes.</Descripcion>
+            </UD>
+            <UD name="Lenguajes para el almacenamiento y transmisión de información">
+                <Tipo>Práctico</Tipo>
+                <Descripcion>Ya vamos entrando más en el mundo de los lenguajes, arreglamos códigos con errores y generamos archivos de
+                    información de nuestros trabajo.</Descripcion>
+            </UD>
+            <UD name="Definición de esquemas y vocabularios en XML">
+                <Tipo>Práctico</Tipo>
+                <Descripcion>Introducción y aprendizaje de uso para lenguaje de programación XML, crear DTD y XSD.</Descripcion>
+            </UD>
+        </UnidadesDidacticas>
+
+        <NombreModulo>Entornos de Desarrollo</NombreModulo>
+        <UnidadesDidacticas>
+            <UD name="Desarrollo de software">
+                <Tipo>Teórico-Práctico</Tipo>
+                <Descripcion>Rápida introducción al módulo y mostramos diferentes programas para código.</Descripcion>
+            </UD>
+            <UD name="Instalación y uso de entornos de desarrollo">
+                <Tipo>Práctico</Tipo>
+                <Descripcion>Instalación de Visual Studio, descarga de extensiones para facilitar el trabajo y aprendizaje
+                    de depuración.</Descripcion>
+            </UD>
+            <UD name="Optimizacion y documentacion">
+                <Tipo>Teórico-Práctico</Tipo>
+                <Descripcion>Aprendizaje de uso y funcionamiento sobre Git</Descripcion>
+            </UD>
+            <UD name="Depuración y realización de pruebas">
+                <Tipo>Teórico-Práctico</Tipo>
+                <Descripcion>Aprendizaje sobre la depuración de código y prácticas sobre éste.</Descripcion>
+            </UD>
+        </UnidadesDidacticas>
+    </Modulos>
+</DAW>
