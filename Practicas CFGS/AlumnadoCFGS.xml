@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="AlumnadoCFGS.xsd" type="application/xml-xsd"?>
+<Alumnos>
+    <Alumno>
+        <NIF>20507832H</NIF>
+        <Resultado>Apto</Resultado>
+        <Observaciones>Chico con bastante carácter, consigue todo lo que se propone y muy constante.</Observaciones>
+        <IP-MAC>44:12:78:23</IP-MAC>
+    </Alumno>
+    <Alumno>
+        <NIF>60603218R</NIF>
+        <Resultado>Apto</Resultado>
+        <Observaciones></Observaciones>
+        <IP-MAC>192.168.1.1</IP-MAC>
+    </Alumno>
+    <Alumno>
+        <NIF>40605244G</NIF>
+        <Resultado>No Apto</Resultado>
+        <Observaciones>Este chico se olvida de todo, muy complicado tratar con él.</Observaciones>
+        <IP-MAC>168.172.0.1</IP-MAC>
+    </Alumno>
+</Alumnos>
