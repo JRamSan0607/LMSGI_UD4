@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE Libreria SYSTEM "biblioteca.dtd">
-<Libreria>
+<libros>
     <libro>
         <nombre>Los 3 cerditos</nombre>
         <editorial>Ayala</editorial>
@@ -97,4 +96,4 @@
         <descripcion>
         </descripcion>
     </libro>
-</Libreria>
+</libros>

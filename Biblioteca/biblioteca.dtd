@@ -1,5 +1,5 @@
-<!ELEMENT Libreria(libro*)>
-<!ELEMENT libro(nombre,editorial,ISBN,descripcion)>
+<!ELEMENT biblioteca (libros*)>
+<!ELEMENT libro (nombre, editorial, ISBN, descripcion)>
 <!ELEMENT nombre (#PCDATA)>
 <!ELEMENT editorial (#PCDATA)>
 <!ELEMENT ISBN (#PCDATA)>
