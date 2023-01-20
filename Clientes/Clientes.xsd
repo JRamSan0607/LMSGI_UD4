@@ -4,10 +4,18 @@
     <xs:element name="Clientes">
         <xs:complexType>
             <xs:sequence>
-                <xs:element name="coche" maxOccurs="unbounded">
+                <xs:element name="Cliente" maxOccurs="unbounded">
                     <xs:complexType>
                         <xs:sequence>
-                            <xs:element name="" type=""></xs:element>
+                            <xs:element name="codigoSede" type="xs:string"/>
+                            <xs:element name="nombreEmpleado" type="xs:string"/>
+                            <xs:element name="fechaAlta" type="xs:string"/>
+                            <xs:element name="descripcionCliente" type="xs:boolean"/>
+                            <xs:element name="codigoCliente" type="xs:string"/>
+                            <xs:element name="numeroViviendas" type="xs:int"/>
+                            <xs:element name="costeVivienda" type="xs:decimal"/>
+                            <xs:element name="resumenVivienda" type="xs:string"/>
+                            <xs:element name="plazoAltaHacienda" type="xs:string"/>
                         </xs:sequence>
                     </xs:complexType>
                 </xs:element>

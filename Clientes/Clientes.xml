@@ -1,1 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="Clientes.xsd" type="application/xml-xsd"?>
+<Clientes>
+    <Cliente>
+        <codigoSede>G2673993</codigoSede>
+        <nombreEmpleado>Alfonso Gutierrez Fernández</nombreEmpleado>
+        <fechaAlta>29/02/2019</fechaAlta>
+        <descripcionCliente>true</descripcionCliente>
+        <codigoCliente>HTG-783</codigoCliente>
+        <numeroViviendas>2</numeroViviendas>
+        <costeVivienda>329.000</costeVivienda>
+        <resumenVivienda>Conjunto de dos viviendas familiares, unidas por un pasillo interconector entre las dos viviendas, cuenta
+            con 3 habitaciones, 2 cuartos de baño, 1 cocina, 2 salones, garaje, ático, patio interior.</resumenVivienda>
+        <plazoAltaHacienda>31/07/2015</plazoAltaHacienda>
+    </Cliente>
+    <Cliente>
+        <codigoSede>S2374439</codigoSede>
+        <nombreEmpleado>María Garrido Carrera</nombreEmpleado>
+        <fechaAlta>12/10/2014</fechaAlta>
+        <descripcionCliente>true</descripcionCliente>
+        <codigoCliente>FRW-892</codigoCliente>
+        <numeroViviendas>7</numeroViviendas>
+        <costeVivienda>1845.590</costeVivienda>
+        <resumenVivienda>Casa-chalet. Cuenta con 2 habitaciones, 1 cuarto de baño, salón, amplia cocina unida con salón, terraza
+            con barbacoa, piscina, pista de pádel, pista de fútbol sala, sala de juegos en interior, garaje techado en exterior.</resumenVivienda>
+        <plazoAltaHacienda>12/08/2008</plazoAltaHacienda>
+    </Cliente>
+    <Cliente>
+        <codigoSede>J7834648</codigoSede>
+        <nombreEmpleado>Alberto Romero Ruíz</nombreEmpleado>
+        <fechaAlta>10/04/2017</fechaAlta>
+        <descripcionCliente>false</descripcionCliente>
+        <codigoCliente>HTY-095</codigoCliente>
+        <numeroViviendas>4</numeroViviendas>
+        <costeVivienda>890.127</costeVivienda>
+        <resumenVivienda>Casa de Campo. Cuenta con 5 habitaciones, salón con sofá cama, 6 cuartos de baño, uno por habitación y
+            otro exterior junto a la piscina, salón de juegos, cocina abierta hacia la terraza, barbacoa, todo preparado para pasar unas
+            vacaciones en familia o con amigos.</resumenVivienda>
+        <plazoAltaHacienda>13/01/2019</plazoAltaHacienda>
+    </Cliente>
+</Clientes>
