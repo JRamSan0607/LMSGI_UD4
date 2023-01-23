@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Editorial>
+<?xml-model href="Editorial.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+    <EdicionesAranda>
+        <InformeRegionalVentas>
+            <Descripcion></Descripcion>
+            <FechaInforme></FechaInforme>
+            <Region name="Norte"></Region>
+                <Trimestre name="1"></Trimestre>
+                    <LibrosVendidos></LibrosVendidos>
+                <Trimestre name="2"></Trimestre>
+                    <LibrosVendidos></LibrosVendidos>
+                <Trimestre name="3"></Trimestre>
+                    <LibrosVendidos></LibrosVendidos>
+                <Trimestre name="4"></Trimestre>
+                    <LibrosVendidos></LibrosVendidos>
+                    
+            <Region name="Centro"></Region>
+                <Trimestre name="1"></Trimestre>
+                    <LibrosVendidos></LibrosVendidos>
+                <Trimestre name="2"></Trimestre>
+                    <LibrosVendidos></LibrosVendidos>
+                <Trimestre name="3"></Trimestre>
+                    <LibrosVendidos></LibrosVendidos>
+                <Trimestre name="4"></Trimestre>
+                    <LibrosVendidos></LibrosVendidos>
+
+            <Region name="Sur"></Region>
+                <Trimestre name="1"></Trimestre>
+                    <LibrosVendidos></LibrosVendidos>
+                <Trimestre name="2"></Trimestre>
+                    <LibrosVendidos></LibrosVendidos>
+                <Trimestre name="3"></Trimestre>
+                    <LibrosVendidos></LibrosVendidos>
+                <Trimestre name="4"></Trimestre>
+                    <LibrosVendidos></LibrosVendidos>
+        </InformeRegionalVentas>
+    </EdicionesAranda>
+</Editorial>
