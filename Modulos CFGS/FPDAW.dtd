@@ -1,5 +1,5 @@
 <!ELEMENT DAW (Modulos*)>
-<!ELEMENT Modulos (NombreModulo+,UnidadesDidacticas+)>
+<!ELEMENT Modulo (NombreModulo+,UnidadesDidacticas+)>
 <!ELEMENT NombreModulo (#PCDATA)>
 <!ELEMENT UnidadesDidacticas (UD+)>
 <!ELEMENT UD (Tipo,Descripcion)>
