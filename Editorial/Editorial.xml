@@ -1,39 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Editorial>
-<?xml-model href="Editorial.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
-    <EdicionesAranda>
-        <InformeRegionalVentas>
-            <Descripcion></Descripcion>
-            <FechaInforme></FechaInforme>
-            <Region name="Norte"></Region>
-                <Trimestre name="1"></Trimestre>
-                    <LibrosVendidos></LibrosVendidos>
-                <Trimestre name="2"></Trimestre>
-                    <LibrosVendidos></LibrosVendidos>
-                <Trimestre name="3"></Trimestre>
-                    <LibrosVendidos></LibrosVendidos>
-                <Trimestre name="4"></Trimestre>
-                    <LibrosVendidos></LibrosVendidos>
-                    
-            <Region name="Centro"></Region>
-                <Trimestre name="1"></Trimestre>
-                    <LibrosVendidos></LibrosVendidos>
-                <Trimestre name="2"></Trimestre>
-                    <LibrosVendidos></LibrosVendidos>
-                <Trimestre name="3"></Trimestre>
-                    <LibrosVendidos></LibrosVendidos>
-                <Trimestre name="4"></Trimestre>
-                    <LibrosVendidos></LibrosVendidos>
-
-            <Region name="Sur"></Region>
-                <Trimestre name="1"></Trimestre>
-                    <LibrosVendidos></LibrosVendidos>
-                <Trimestre name="2"></Trimestre>
-                    <LibrosVendidos></LibrosVendidos>
-                <Trimestre name="3"></Trimestre>
-                    <LibrosVendidos></LibrosVendidos>
-                <Trimestre name="4"></Trimestre>
-                    <LibrosVendidos></LibrosVendidos>
-        </InformeRegionalVentas>
-    </EdicionesAranda>
-</Editorial>
+<?xml-model href="Editorial.dtd" type="application/xml-dtd"?>
+<Ventas>
+    <Fecha Formato="dd/mm/yyyy">03/02/2023</Fecha>
+    <Cabecera>Informe de Ventas de la Editorial</Cabecera>
+    <Datos>
+      <Region id="Norte">
+        <Nombre>Norte</Nombre>
+        <Trimestre Trimestre="1">
+          <Numero Trimestre="1">1</Numero>
+          <Libros Trimestre="1">24000</Libros>
+        </Trimestre>
+        <Trimestre Trimestre="2">
+          <Numero Trimestre="2">2</Numero>
+          <Libros Trimestre="2">38600</Libros>
+        </Trimestre>
+        <Trimestre Trimestre="3">
+          <Numero Trimestre="3">3</Numero>
+          <Libros Trimestre="3">NO_INFO</Libros>
+        </Trimestre>
+        <Trimestre Trimestre="4">
+          <Numero Trimestre="4">4</Numero>
+          <Libros Trimestre="4">NO_INFO</Libros>
+        </Trimestre>
+      </Region>
+      <Region id="Centro">
+        <Nombre>Centro</Nombre>
+        <Trimestre Trimestre="1">
+          <Numero Trimestre="1">1</Numero>
+          <Libros Trimestre="1">NO_INFO</Libros>
+        </Trimestre>
+        <Trimestre Trimestre="2">
+          <Numero Trimestre="2">2</Numero>
+          <Libros Trimestre="2">16080</Libros>
+        </Trimestre>
+        <Trimestre Trimestre="3">
+          <Numero Trimestre="3">3</Numero>
+          <Libros Trimestre="3">25000</Libros>
+        </Trimestre>
+        <Trimestre Trimestre="4">
+          <Numero Trimestre="4">4</Numero>
+          <Libros Trimestre="4">29000</Libros>
+        </Trimestre>
+      </Region>
+      <Region id="Sur">
+        <Nombre>Centro</Nombre>
+        <Trimestre Trimestre="1">
+          <Numero Trimestre="1">1</Numero>
+          <Libros Trimestre="1">27000</Libros>
+        </Trimestre>
+        <Trimestre Trimestre="2">
+          <Numero Trimestre="2">2</Numero>
+          <Libros Trimestre="2">31400</Libros>
+        </Trimestre>
+        <Trimestre Trimestre="3">
+          <Numero Trimestre="3">3</Numero>
+          <Libros Trimestre="3">40100</Libros>
+        </Trimestre>
+        <Trimestre Trimestre="4">
+          <Numero Trimestre="4">4</Numero>
+          <Libros Trimestre="4">30000</Libros>
+        </Trimestre>
+      </Region>
+    </Datos>
+</Ventas>
+  

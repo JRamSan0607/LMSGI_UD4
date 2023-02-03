@@ -1,0 +1,32 @@
+<!ELEMENT Ventas (Fecha, Cabecera, Datos)>
+<!ELEMENT Fecha (#PCDATA)>
+<!ELEMENT Cabecera (#PCDATA)>
+<!ELEMENT Datos (Region+)>
+<!ELEMENT Region (Nombre, Trimestre+)>
+<!ELEMENT Nombre (#PCDATA)>
+<!ELEMENT Trimestre (Numero, Libros?)>
+<!ELEMENT Numero (#PCDATA)>
+<!ELEMENT Libros (#PCDATA)>
+
+<!ATTLIST Fecha
+  Formato CDATA #REQUIRED
+>
+<!ATTLIST Numero
+  Trimestre CDATA #REQUIRED
+>
+
+<!ATTLIST Region
+  id ID #REQUIRED
+>
+
+<!ATTLIST Trimestre
+  Trimestre CDATA #REQUIRED
+>
+
+<!ATTLIST Libros
+  Trimestre CDATA #REQUIRED
+>
+
+<!ENTITY % Regiones "Norte | Centro | Sur">
+
+<!ENTITY % Trimestres "1 | 2 | 3 | 4">

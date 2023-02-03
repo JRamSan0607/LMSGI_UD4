@@ -1,37 +1,49 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
-    <xs:element name="EdicionesAranda">
-        <xs:complexType>
-            <xs:sequence>
-                <xs:element name="InformeRegionalVentas">
-                    <xs:complexType>
-                        <xs:sequence>
-                            <xs:element name="Descripcion" />
-                            <xs:element name="FechaInforme" />
-                            <xs:element name="Region" maxOccurs="unbounded">
-                                <xs:complexType>
-                                    <xs:attribute name="name" use="required" />
-                                </xs:complexType>
-                            </xs:element>
-                            <xs:element name="Trimestre" maxOccurs="unbounded">
-                                <xs:complexType>
-                                    <xs:attribute name="name" type="xs:integer" use="required">
-                                        <xs:simpleType>
-                                            <xs:restriction base="xs:string">
-                                                <xs:enumeration value="1" />
-                                                <xs:enumeration value="2" />
-                                                <xs:enumeration value="3" />
-                                                <xs:enumeration value="4" />
-                                            </xs:restriction>
-                                        </xs:simpleType>
-                                    </xs:attribute>
-                                </xs:complexType>
-                            </xs:element>
-                            <xs:element name="LibrosVendidos" maxOccurs="unbounded" />
-                        </xs:sequence>
-                    </xs:complexType>
-                </xs:element>
-            </xs:sequence>
-        </xs:complexType>
-    </xs:element>
+    <xs:element name="Ventas" type="VentasType"/>
+    <xs:complexType name="VentasType">
+        <xs:sequence>
+            <xs:element name="Fecha" type="FechaType"/>
+            <xs:element name="Cabecera" type="xs:string"/>
+            <xs:element name="Datos" type="DatosType"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="FechaType">
+        <xs:simpleContent>
+            <xs:extension base="xs:string">
+                <xs:attribute name="Formato" type="xs:string"/>
+            </xs:extension>
+        </xs:simpleContent>
+    </xs:complexType>
+    <xs:complexType name="DatosType">
+        <xs:sequence>
+            <xs:element name="Region" maxOccurs="3" type="RegionType"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="RegionType">
+        <xs:sequence>
+            <xs:element name="Nombre" type="xs:string"/>
+            <xs:element name="Trimestre" maxOccurs="4" type="TrimestreType"/>
+        </xs:sequence>
+        <xs:attribute name="id" type="xs:string"/>
+    </xs:complexType>
+    <xs:complexType name="TrimestreType">
+        <xs:sequence>
+            <xs:element name="Numero" type="NumeroType"/>
+            <xs:element name="Libros" type="LibrosType"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="NumeroType">
+        <xs:simpleContent>
+            <xs:extension base="xs:string">
+                <xs:attribute name="Trimestre" type="xs:string"/>
+            </xs:extension>
+        </xs:simpleContent>
+    </xs:complexType>
+    <xs:complexType name="LibrosType">
+        <xs:simpleContent>
+            <xs:extension base="xs:string">
+                <xs:attribute name="Trimestre" type="xs:string"/>
+            </xs:extension>
+        </xs:simpleContent>
+    </xs:complexType>
 </xs:schema>
