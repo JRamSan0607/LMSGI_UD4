@@ -9,24 +9,15 @@
 <!ELEMENT Libros (#PCDATA)>
 
 <!ATTLIST Fecha
-  Formato CDATA #REQUIRED
->
+  Formato CDATA #REQUIRED>
 <!ATTLIST Numero
-  Trimestre CDATA #REQUIRED
->
-
+  Trimestre CDATA #REQUIRED>
 <!ATTLIST Region
-  id ID #REQUIRED
->
-
+  id ID #REQUIRED>
 <!ATTLIST Trimestre
-  Trimestre CDATA #REQUIRED
->
-
+  Trimestre CDATA #REQUIRED>
 <!ATTLIST Libros
   Trimestre CDATA #REQUIRED
 >
-
 <!ENTITY % Regiones "Norte | Centro | Sur">
-
 <!ENTITY % Trimestres "1 | 2 | 3 | 4">
